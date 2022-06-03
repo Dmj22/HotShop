@@ -17,6 +17,8 @@
 ### 🏠 [Homepage](WHEN I add my database name, MySQL username, and MySQL password to an environment variable file)
 
 ### ✨ [Demo](THEN I am able to connect to a database using Sequelize)
+Demo too larger to fit in Readme, please refer to the video in my code files.
+
 
 ## Install
 
