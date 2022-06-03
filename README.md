@@ -55,7 +55,7 @@ Give a ⭐️ if this project helped you!
 Copyright © 2022 [Daquan Jordan](https://github.com/Dmj22).<br />
 This project is [MIT](https://github.com/Dmj22/HotShop/blob/master/LI
 
-https://user-images.githubusercontent.com/98237579/171700428-cc133635-a355-48ea-bbb0-761eb12fe1b4.mp4
+
 
 CENSE) licensed.
 
